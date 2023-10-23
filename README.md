@@ -1,10 +1,8 @@
 <h3 align="center">Oi, meu nome é Natália!</h3>
-<h5 align="center">Uma desenvolvedora BackEnd em evolução com potencial(e muita vontade) de se tornar FullStack. 
-  <br>Criando uma grande base de conhecimentos em programação, estou sempre disposta a aprender coisas novas!</h5>
+<h5 align="center">Uma aspirante a desenvolvedora BackEnd com grande potencial e determinação para se tornar FullStack. 
+  <br>Estou constantemente expandindo minha base de conhecimentos em programação e estou sempre aberta a aprender novas habilidades!</h5>
 
-- Atualmente trabalhando no projeto [PlusOne](https://github.com/ayxul/projetoplusone)
-
-- Aprendendo **Java, Python, Power BI..**
+- Aprendendo **Java, Kotlin, Python, Power BI..**
 
 - Meus projetos e evolução poderão ser encontrados em: [https://github.com/ayxul?tab=repositories](https://github.com/ayxul?tab=repositories)
 
